@@ -39,5 +39,4 @@ No additional libraries or modules required
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
