@@ -18,7 +18,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/project-management.git
+git clone https://github.com/your-username/Project-Management-System-for-XYZ-Company.git
 Navigate to the Project Directory
 
 bash
